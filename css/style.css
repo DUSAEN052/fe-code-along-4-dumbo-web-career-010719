@@ -119,7 +119,8 @@ img, video, audio {
 /* SECTION */
 
 section {
-  padding
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 
